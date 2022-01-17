@@ -10,13 +10,11 @@ My YouTube channel here: https://www.youtube.com/c/MrHardik05
 
 ![Hardik05's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardik05&count_private=true)
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on fuzzing.
 - 🌱 I’m currently learning youtube video editing.
 - 👯 I’m looking to collaborate on fuzzing and security videos.
 - 💬 Ask me about fuzzing.
 - 📫 How to reach me: @hardik05
-- 😄 Pronouns: hardik
-- ⚡ Fun fact: spending my time in learning various things.
+- 😄 Pronouns: [hardik](https://embed.howtopronounce.com/classic/en/hardik/29291681)
+- ⚡ Fun fact: spending my time in learning,watching and working on various things which I found useless later on.
 
