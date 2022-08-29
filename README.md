@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Hardik Shah and I work as a Security Researcher. I have around 16+ years of experiance information security. I have worked with various IPS engines to write detection. I analyzed malware, exploits and vulnerabilities. I also do lot of fuzzing and bug hunting.
+My name is Hardik Shah and I work as a Security Researcher. I have around 17+ years of experiance information security. In the past I have worked with various IPS engines to write detection. I analyzed malware, exploits and vulnerabilities. I also do lot of fuzzing and bug hunting.
 
 Check out my linkedin here and feel free to connect: https://www.linkedin.com/in/hardik05/
 
