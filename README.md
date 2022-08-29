@@ -6,6 +6,8 @@ Check out my linkedin here and feel free to connect: https://www.linkedin.com/in
 
 You can follow me on Twitter here: https://twitter.com/hardik05
 
+My Personal blog here: https://hardik05.wordpress.com/
+
 My YouTube channel here: https://www.youtube.com/c/MrHardik05
 
 ![Hardik05's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardik05&count_private=true)
